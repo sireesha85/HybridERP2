@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Supplier-00000008462   Supplier-00000008225]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-12-18T05:05:16 GMT-08:00" name="driverFactory.AppTest" finished-at="2024-12-18T05:06:47 GMT-08:00" duration-ms="91639">
+    <groups>
+    </groups>
+    <test started-at="2024-12-18T05:05:16 GMT-08:00" name="Command line test" finished-at="2024-12-18T05:06:47 GMT-08:00" duration-ms="91639">
+      <class name="driverFactory.AppTest">
+        <test-method signature="StartTest()[pri:0, instance:driverFactory.AppTest@4f9a3314]" started-at="2024-12-18T05:05:16 GMT-08:00" name="StartTest" finished-at="2024-12-18T05:06:47 GMT-08:00" duration-ms="91546" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Supplier-00000008462   Supplier-00000008225]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- driverFactory.AppTest -->
+</testng-results>
